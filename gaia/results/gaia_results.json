@@ -1,0 +1,6 @@
+{
+    "task_id": "e1fc63a2-da7a-432f-be78-7c4a95598703",
+    "question": "If Eliud Kipchoge could maintain his record-making marathon pace indefinitely, how many thousand hours would it take him to run the distance between the Earth and the Moon its closest approach? Please use the minimum perigee value on the Wikipedia page for the Moon when carrying out your calculation. Round your result to the nearest 1000 hours and do not use any comma separators if necessary.",
+    "reference_answer": "17",
+    "agent_answer": "The minimum perigee distance between Earth and the Moon is approximately 363,104 km. Eliud Kipchoge's marathon pace is calculated as 42.195 km / 2.1667 hours ≈ 19.4 km/h. Dividing the perigee distance by his pace gives 363,104 / 19.4 ≈ 18,700 hours. Rounded to the nearest 1000 hours, the result is **19,000**.\n\n**Answer:** 19,000"
+}
